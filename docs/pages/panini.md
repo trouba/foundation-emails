@@ -65,6 +65,7 @@ Here's an example of a layout file that divides its key sections into partials:
   </head>
   <body>
     {{> header}}
+    {{> navigation}}
     {{> body}}
     {{> footer}}
   </body>
